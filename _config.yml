@@ -96,8 +96,8 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
+    repo: devulapa-ub/devulapa-ub.github.io # <gh-username>/<repo>
+    repo_id: 
     category:
     category_id:
     mapping: # optional, default to 'pathname'
